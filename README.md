@@ -2,6 +2,7 @@
 ### Linux Commands
 * For Basic Commands of Linux terminal read [terminal.md](https://github.com/dipen-atharva/Trainning/blob/main/terminal/terminal.md)
 
+--- 
 ### Authentication 
 
 * Authentication is a process in which the credentials provided are compared to those on file in a database of authorized users' information on a local operating system or within an authentication server. If the credentials match, the process is completed and the user is granted authorization for access.
